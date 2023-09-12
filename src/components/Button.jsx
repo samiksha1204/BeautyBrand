@@ -8,7 +8,7 @@ const Button = ({ styles }) => {
         font-poppins font-medium text-[18px] text-primary outline-none 
         ${styles} rounded-[10px] hover:bg-blue-700 hover:text-white transition-all duration-300`}
     >
-      Get Started
+      Shop Now
     </button>
   );
 };

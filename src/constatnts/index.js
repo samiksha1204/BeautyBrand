@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { india,Vector,Group,organic,people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Free Shipping",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Enjoy hassle-free delivery to your doorstep.      ",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "24/7 Customer Support",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We're here around the clock to assist you.        ",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Free Exchanges",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Change your mind? Enjoy free,exchanges.",
   },
 ];
 
@@ -47,43 +47,76 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "I'm allergic to nickel. You identified nickel in a product I was using on the label under an alias name. I stopped using it so did my breakouts.",
+    name: "JENNIFER",
+    title: " ",
     img: people01,
   },
+  
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+      "You showed me that I was using several natural products that had ingredients banned in other countries. one was proven to cause infertility.",
+    name: "SHREYA",
+    title: " ",
+    img: people01,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+      "I never realized how much I was overpaying. You found me a site where I bought the same product I was using for 30% less.",
+    name: "SAMIKSHA",
+    title: " ",
+    img: people01,
   },
 ];
+
+export const product = [
+  {
+    id: "product-1",
+    content:
+      "Grow and manufactured in the INDIA,we're proud of the rich soil our hemp is grown on, Grown by dedicated farmers with care and a dash of love.",
+    name: "GROWN IN INDIA",
+    img: india,
+  },
+  {
+    id: "product-2",
+    content:
+      "With quality,safety and effcacy as our mainfocus,we're proud to offer organically grown products with only best ingredients.",
+    name: "ORGANIC",
+    img: organic,
+  },
+  {
+    id: "product-3",
+    content:
+      "Safety and accuracy are our top priority which is why all of our products are tested by independent, third-party labs across the country.",
+    name: "LAB TESTED",
+    img: Vector,
+  },
+  {
+    id: "product-4",
+    content:
+      "Our powerful phytocannabinoid- rich products that are completely TCH-Free and generate absolutely no psychoactive effects.",
+    name: "THC FREE",
+    img: Group,
+  },
+];
+
 
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Happy Customers",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Trusted by Beauty Enthusiasts",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Beauty Transformations",
     value: "$230M+",
   },
 ];
@@ -94,23 +127,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
     ],
   },
@@ -119,23 +152,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
     ],
   },
@@ -144,11 +177,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "www.linkedin.com/in/samikshasharma-dev",
       },
     ],
   },
@@ -158,22 +191,22 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "www.linkedin.com/in/samikshasharma-dev",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "www.linkedin.com/in/samikshasharma-dev",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "www.linkedin.com/in/samikshasharma-dev",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "www.linkedin.com/in/samikshasharma-dev",
   },
 ];
 

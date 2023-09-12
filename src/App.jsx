@@ -11,6 +11,7 @@ import {
   Footer,
   Testimonials,
   Hero,
+  
 } from './components';
 
 const App = () => (

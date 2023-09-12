@@ -24,16 +24,14 @@ const Bussiness = () => {
   return (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>You do the bussiness, 
+        <h2 className={styles.heading2}>Your beauty, Your joy,
         <br className='sm:block hidden'/>
-        we'll handel the money</h2>
+        We've got the rest.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life 
-        by building credit, earning rewards and saving money. But with
-         hundreds of credit cards on the market.</p>
+        Just as the right skincare enhances your beauty, our beauty products elevate your radiance. With a world of choices, we simplify your beauty routine.</p>
          <Button styles="mt-10"/>
       </div>
-      # ... is for spread syntax spred properties of feature to featureCard
+     
       <div className={`${layout.sectionImg} flex-col`}>
         {features.map((feature,index)=>(
           <FeatureCard key={feature.id} {...feature} index={index}/>
@@ -41,6 +39,7 @@ const Bussiness = () => {
 
       </div>
     </section>
+     //...is for spread syntax spred properties of feature to featureCard
   )
 }
 
