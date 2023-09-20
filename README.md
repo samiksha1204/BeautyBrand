@@ -10,7 +10,8 @@ Currently, two official plugins are available:
 
 
 # Beauty Brand - Modern UI/UX Website
-![Screenshot 2023-05-09 214812](https://github.com/samiksha1204/BeautyBrand/assets/102059617/4847f10a-613a-43d4-b09c-ff5519f6b117)
+![Screenshot 2023-09-21 001110](https://github.com/samiksha1204/BeautyBrand/assets/102059617/9a4e9c0d-09cc-4ff2-9ccb-46d5181d4698)
+
 
 
 ## Overview
